@@ -1,3 +1,5 @@
+<img src="Data Science Experiments.png" alt="project banner" class="center">
+
 # Gabriel Martins
 
 <i>Civil Engineer / Data Scientist</i>
